@@ -1,0 +1,16 @@
+.box {
+    border: 2px solid black;
+    background-color: palevioletred;
+    height: 300px;
+
+}
+img {
+    padding-left: 40px;
+    padding-bottom: 80px;
+    width: 200px;
+    float: left;
+}
+h1 {
+    padding-left: 10px;
+
+}
